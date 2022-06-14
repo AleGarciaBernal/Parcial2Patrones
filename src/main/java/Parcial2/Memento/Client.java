@@ -25,8 +25,6 @@ public class Client {
         caretaker1.addMemento(originator1.createMemento());
 
         doc=originator1.restoreMemento(caretaker1.getMementZ());
-        //doc=originator1.restoreMemento(caretaker1.getMementoY());
-
 
         System.out.println("*************VALORES ACTUALES ********************");
 

@@ -15,6 +15,7 @@ public class Caretaker {
     public Memento getMementZ(){
         return stateList.get((stateList.size()-1)-1);
 
+
     }
 
     public Memento getMementoY(){
