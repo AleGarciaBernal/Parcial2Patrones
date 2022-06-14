@@ -4,7 +4,7 @@ import java.util.List;
 
 public interface IStrategy {
 
-    void execute(List<Libro> list);
+    void execute(List<Libro> arr);
 
 
 }

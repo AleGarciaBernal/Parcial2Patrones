@@ -12,7 +12,12 @@ public class Client {
         Libro l2 = new Libro(5, "Alabama", "Musical");
         Libro l3 = new Libro(1, "SherlockHolmes", "Suspenso");
 
-        bd.setStrategy()
+        bd.addLibro(l1);
+        bd.addLibro(l2);
+        bd.addLibro(l3);
+
+        bd.setStrategy(new StrategiaPorCategoria());
+        bd.execute();
 
 
 
