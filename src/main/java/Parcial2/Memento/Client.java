@@ -12,15 +12,15 @@ public class Client {
         originator1.setMemento(doc);
         caretaker1.addMemento(originator1.createMemento());
 
-        doc=new Documento(" Este es mi documento ");
+        doc=new Documento(doc.getPalabras()+" Este es mi documento ");
         originator1.setMemento(doc);
         caretaker1.addMemento(originator1.createMemento());
 
-        doc=new Documento(" Sobre la contaminacion ");
+        doc=new Documento(doc.getPalabras()+" Sobre la contaminacion ");
         originator1.setMemento(doc);
         caretaker1.addMemento(originator1.createMemento());
 
-        doc=new Documento(" Capitulo 1");
+        doc=new Documento(doc.getPalabras()+" Capitulo 1");
         originator1.setMemento(doc);
         caretaker1.addMemento(originator1.createMemento());
 
