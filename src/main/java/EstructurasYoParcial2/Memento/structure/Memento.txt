@@ -1,0 +1,3 @@
+caretaker guarda los mementos (lista)
+originator
+Memento

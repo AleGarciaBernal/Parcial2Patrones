@@ -1,0 +1,5 @@
+Familia de comandos(?)
+En invoker se guardan los comandos
+Tener diferentes comandos de diferentes clases
+
+

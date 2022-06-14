@@ -1,0 +1,2 @@
+familia que almacenan objetos (agregates)
+familia de iteradores (Concrete Iterator)

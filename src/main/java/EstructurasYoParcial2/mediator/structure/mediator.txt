@@ -1,0 +1,6 @@
+que un componente no tenga que interacturar con varios componentes
+sino se comunic con el meditor y el mediator se encarga de comunicar
+
+Podriamos tener una familia de mediators y familias de los que reciben que mensajes
+
+colagas - objetos que reciben y envian mensajes

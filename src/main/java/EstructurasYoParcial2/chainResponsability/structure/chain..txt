@@ -1,0 +1,10 @@
+Familia
+   Persona[] arr;
+
+        arr=new Persona[30];
+
+        arr[0] = new Persona("Diego",5);
+        arr[1] = new Persona("Dany",22);
+        arr[2] = new Persona("Cami",10);
+        arr[3] = new Persona("Rash",15);
+        arr[4] = new Persona("Igna",31);

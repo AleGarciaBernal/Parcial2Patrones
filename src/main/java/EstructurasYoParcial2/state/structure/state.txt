@@ -1,0 +1,1 @@
+int porcentaje= (int)(ropa.getPrecio()*(10.0f/100.0f));
