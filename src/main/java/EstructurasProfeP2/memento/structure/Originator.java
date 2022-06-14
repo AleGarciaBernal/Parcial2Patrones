@@ -9,7 +9,7 @@ public class Originator {
     }
 
     public Memento createMemento(){
-        return  new Memento(state);
+        return new Memento(state);
     }
 
     public ConcreteObject restoreMemento(Memento m){
